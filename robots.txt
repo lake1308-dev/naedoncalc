@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lake1308-dev.github.io/naedoncalc/sitemap.xml
